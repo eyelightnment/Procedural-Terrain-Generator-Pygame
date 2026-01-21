@@ -28,13 +28,11 @@ A real-time, infinite 2D terrain generator built with Python, Pygame, and NumPy.
 - Or, clone the project and run the python source code ```python chunk-map.py```. Note that you may need to install the dependencies ```pip install numpy pygame```.
 
 ## Gallery
-![](gallery/im1.png)
-![](gallery/im2.png)
-![](gallery/im3.png)
-![](gallery/im4.png)
-![](gallery/im8.png)
-
-![](gallery/im6.png)
-![](gallery/im7.png)
-
-![](gallery/im5.png)
+<img src="gallery/im1.png" width="50%">
+<img src="gallery/im2.png" width="50%">
+<img src="gallery/im3.png" width="50%">
+<img src="gallery/im4.png" width="50%">
+<img src="gallery/im5.png" width="50%">
+<img src="gallery/im6.png" width="50%">
+<img src="gallery/im7.png" width="50%">
+<img src="gallery/im8.png" width="50%">
