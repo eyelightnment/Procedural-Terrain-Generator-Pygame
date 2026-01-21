@@ -4,6 +4,8 @@
 
 A real-time, infinite 2D terrain generator built with Python, Pygame, and NumPy. This project uses fractal Perlin noise to generate biomes, elevations, and simulated slopes for beautiful dynamic coloring.
 
+https://eyelightnment.itch.io/procedural-terrain-generator-pygame
+
 ## Features
 - Infinite Generation: Terrain is generated and unloaded on-the-fly as the camera moves, allowing for an endless world.
 
@@ -23,7 +25,7 @@ A real-time, infinite 2D terrain generator built with Python, Pygame, and NumPy.
 - C: Toggle Cinematic Scroll mode.
 
 ## Installation
-- Visit the itch.io page and download the windows executable or the source python code. -add itch link here when you upload it-
+- Visit the itch.io page [here](https://eyelightnment.itch.io/procedural-terrain-generator-pygame) and download the windows executable or the source python code.
 
 - Or, clone the project and run the python source code ```python chunk-map.py```. Note that you may need to install the dependencies ```pip install numpy pygame```.
 
