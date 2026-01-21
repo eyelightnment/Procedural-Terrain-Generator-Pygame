@@ -1,7 +1,7 @@
 # Procedural Terrain Generator
 
 <p align="center">
-  <video src="gallery/demo.mp4" width="%100" autoplay loop muted controls></video>
+  <video src="gallery/demo.mp4" width="600" autoplay loop muted controls></video>
 </p>
 
 A real-time, infinite 2D terrain generator built with Python, Pygame, and NumPy. This project uses fractal Perlin noise to generate biomes, elevations, and simulated slopes for beautiful dynamic coloring.
